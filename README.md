@@ -25,8 +25,7 @@ An AI-powered web application that generates **personalized captions for photos*
 
 ## 🛠️ Tech Stack
 - **Frontend / Web App**: [Streamlit](https://streamlit.io/)
-- **Image Captioning**: [BLIP model](https://huggingface.co/Salesforce/blip-image-captioning-base)  
-  *(recommended for lightweight deployments)*  
+- **Image Captioning**: GEMINI VISION PRO 
 - **Generative AI**: [Google Gemini API](https://ai.google.dev/)
 - **Backend**: Python, Torch, Pillow
 - **Deployment**: [Streamlit Cloud](https://streamlit.io/cloud)
